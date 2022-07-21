@@ -1,0 +1,32 @@
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+body{
+    background-image: url(../img/fondo.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.navbarcolor{
+    background-color: #00575B;
+}
+
+.colorcard{
+    background-color: #686D76;
+}
+
+.card-body{
+    background-color: #C2C4C9;
+}
+
+.card-footer{
+    background-color: #C2C4C9;
+}
+
+.colorbtn{
+    background-color: #D2FDFF;
+}
